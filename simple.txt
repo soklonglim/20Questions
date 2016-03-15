@@ -1,0 +1,82 @@
+Q:
+Is it an animal?
+Q:
+Does it meow?
+Q:
+Is it a cat but younger?
+A:
+baby cat
+A:
+cat
+Q:
+Does it live in the forest and eat meat?
+Q:
+Is it the king of the forest?
+A:
+Lion
+A:
+Wild Tiger
+Q:
+Does it live in the water for its whole life?
+A:
+Gold Fish
+Q:
+Is it pink?
+A:
+Pig
+Q:
+Is it black & white?
+A:
+Panda
+Q:
+Does it sleep hanging head down?
+A:
+Bat
+A:
+Dog
+Q:
+Is she pretty?
+Q:
+Do you use it in restroom?
+Q:
+Do you use it to wash your hands?
+A:
+Handsoap
+A:
+Toilet Paper
+A:
+Pretty Girl
+Q:
+Does monkey eat that?
+A:
+Banana
+Q:
+Do you spend most of the time using or charging it?
+Q:
+Does it have a big keyboard?
+A:
+Laptop
+Q:
+Is it a tablet?
+A:
+iPad
+A:
+Smart Phone
+Q:
+Does it has two wheels?
+A:
+Motorcycle
+Q:
+Can you kick it?
+Q:
+Do you use it to take picture?
+A:
+Camera
+A:
+Soccer Ball
+Q:
+Do you live in it every day?
+A:
+Home Sweet Home
+A:
+Book
